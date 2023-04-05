@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\CLEVO Computer\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\CLEVO Computer\\.nuget\\packages"
+    ]
+  }
+}

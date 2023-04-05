@@ -1,0 +1,14 @@
+C:\Users\CLEVO Computer\source\repos\Example_Task_SW_Lasertechnik\Example_Task_SW_Lasertechnik\bin\Debug\netcoreapp3.1\Example_Task_SW_Lasertechnik.exe
+C:\Users\CLEVO Computer\source\repos\Example_Task_SW_Lasertechnik\Example_Task_SW_Lasertechnik\bin\Debug\netcoreapp3.1\Example_Task_SW_Lasertechnik.deps.json
+C:\Users\CLEVO Computer\source\repos\Example_Task_SW_Lasertechnik\Example_Task_SW_Lasertechnik\bin\Debug\netcoreapp3.1\Example_Task_SW_Lasertechnik.runtimeconfig.json
+C:\Users\CLEVO Computer\source\repos\Example_Task_SW_Lasertechnik\Example_Task_SW_Lasertechnik\bin\Debug\netcoreapp3.1\Example_Task_SW_Lasertechnik.runtimeconfig.dev.json
+C:\Users\CLEVO Computer\source\repos\Example_Task_SW_Lasertechnik\Example_Task_SW_Lasertechnik\bin\Debug\netcoreapp3.1\Example_Task_SW_Lasertechnik.dll
+C:\Users\CLEVO Computer\source\repos\Example_Task_SW_Lasertechnik\Example_Task_SW_Lasertechnik\bin\Debug\netcoreapp3.1\Example_Task_SW_Lasertechnik.pdb
+C:\Users\CLEVO Computer\source\repos\Example_Task_SW_Lasertechnik\Example_Task_SW_Lasertechnik\obj\Debug\netcoreapp3.1\Example_Task_SW_Lasertechnik.csproj.AssemblyReference.cache
+C:\Users\CLEVO Computer\source\repos\Example_Task_SW_Lasertechnik\Example_Task_SW_Lasertechnik\obj\Debug\netcoreapp3.1\Example_Task_SW_Lasertechnik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CLEVO Computer\source\repos\Example_Task_SW_Lasertechnik\Example_Task_SW_Lasertechnik\obj\Debug\netcoreapp3.1\Example_Task_SW_Lasertechnik.AssemblyInfoInputs.cache
+C:\Users\CLEVO Computer\source\repos\Example_Task_SW_Lasertechnik\Example_Task_SW_Lasertechnik\obj\Debug\netcoreapp3.1\Example_Task_SW_Lasertechnik.AssemblyInfo.cs
+C:\Users\CLEVO Computer\source\repos\Example_Task_SW_Lasertechnik\Example_Task_SW_Lasertechnik\obj\Debug\netcoreapp3.1\Example_Task_SW_Lasertechnik.csproj.CoreCompileInputs.cache
+C:\Users\CLEVO Computer\source\repos\Example_Task_SW_Lasertechnik\Example_Task_SW_Lasertechnik\obj\Debug\netcoreapp3.1\Example_Task_SW_Lasertechnik.dll
+C:\Users\CLEVO Computer\source\repos\Example_Task_SW_Lasertechnik\Example_Task_SW_Lasertechnik\obj\Debug\netcoreapp3.1\Example_Task_SW_Lasertechnik.pdb
+C:\Users\CLEVO Computer\source\repos\Example_Task_SW_Lasertechnik\Example_Task_SW_Lasertechnik\obj\Debug\netcoreapp3.1\Example_Task_SW_Lasertechnik.genruntimeconfig.cache
